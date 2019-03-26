@@ -4,7 +4,7 @@ program that solves the LCS problem by the top-down dynamic programming approach
 #include <iostream>
 #include <cstdlib>
 #include <fstream>
-#include <string>
+#include <cstring>
 #include <algorithm>
 #include <chrono>
 #include <iomanip>

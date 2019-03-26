@@ -4,7 +4,7 @@ solves the LCS problem by recursively computing the length of a longest common s
 #include <iostream>
 #include <cstdlib>
 #include <fstream>
-#include <string>
+#include <cstring>
 #include <algorithm>
 #include <chrono>
 #include <iomanip>

@@ -4,10 +4,11 @@
 #include <iostream>
 #include <cstdlib>
 #include <fstream>
-#include <string>
+#include <cstring>
 #include <algorithm>
 #include <vector>
 #include <iomanip>
+#include <chrono>
 
 using namespace std;
 using namespace chrono;
